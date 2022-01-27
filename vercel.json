@@ -1,8 +1,8 @@
- {
+{
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/jhonathan93/spotify-now-playing-js"
+      "destination": "https://github.com/novatorem/novatorem"
     }
   ]
 }
